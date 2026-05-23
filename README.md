@@ -1,9 +1,19 @@
-# Aivoa AI Manual Testing Project
+# AIVOA AI Testing & QMS Workflow Project
 
 ## Overview
-This project contains manual testing performed on the Aivoa AI website.
+This repository contains the Round 1 assignment submission for AIVOA AI.
 
-Testing focused on:
+The assignment included:
+1. Website Exploration & Manual Testing
+2. Understanding Pharmaceutical QMS Workflow
+
+---
+
+# SECTION 1: Website Exploration & Manual Testing
+
+## Scope
+Manual testing of the AIVOA AI website including:
+
 - UI/UX Testing
 - Functional Testing
 - Form Validation
@@ -12,14 +22,41 @@ Testing focused on:
 - Cross-browser Testing
 
 ## Deliverables
-- Test Case Documentation
+- Test Case Report
 - Bug Reports
+- Observations & Findings
 - Video Demonstration
 
-## Tools Used
+---
+
+# SECTION 2: Understanding QMS Workflow
+
+## Topic Covered
+Pharmaceutical Quality Management System (QMS) workflow using:
+
+- API (Active Pharmaceutical Ingredient)
+- FDF (Finished Dosage Form)
+
+## Concepts Explained
+- Deviations
+- CAPA
+- Quality Checks
+- Product Recall Workflow
+- Manufacturing Lifecycle
+
+## Deliverables
+- QMS Workflow Presentation
+- Workflow Explanation Video
+
+---
+
+# Tools Used
 - Excel
-- Chrome 
+- PowerPoint
+- Chrome DevTools
 - OBS Studio
 
-## Author
+---
+
+# Author
 Shital Savant
